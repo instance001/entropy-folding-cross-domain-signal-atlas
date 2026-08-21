@@ -20,6 +20,12 @@ This card is not independent external validation.
 
 It is an internal tool-architecture trace showing a host-body or exoskeleton lane where continuity, module expansion, and cross-module context problems are handled through layered memory, bounded roles, and explicit handoff surfaces.
 
+Terminology boundary: `cognitive prosthetic`, `exoskeleton`, `host-body`, and
+tri-helix memory are retained here as user-side augmentation and architecture
+metaphors. They describe assistive workflow structure, host surfaces, and
+context-routing layers, not model consciousness, personhood, biological
+cognition, or literal embodiment.
+
 ## Direct Source Claim
 
 The sources explicitly document:
